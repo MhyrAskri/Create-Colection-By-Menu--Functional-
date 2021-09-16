@@ -1,0 +1,3 @@
+C:/Users/bcz/CLionProjects/CreateColectionByMenu(Functional)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bcz/CLionProjects/CreateColectionByMenu(Functional)/cmake-build-debug/CMakeFiles/CreateColectionByMenu_Functional_.dir
+C:/Users/bcz/CLionProjects/CreateColectionByMenu(Functional)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
